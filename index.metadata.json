@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"./src/interfaces/config","export":["Config"]},{"from":"./src/ngx-countdown","export":["CountdownComponent"]},{"from":"./src/countdown.module","export":["CountdownModule"]}]}]
