@@ -4,7 +4,7 @@
 index.d.ts
 index.js
 index.js.map
-index.js.metadata.json
+index.metadata.json
 
 # compiled output
 /dist
